@@ -3,10 +3,10 @@ import pymysql
 def conectar():
     try:
         conexao = pymysql.connect(
-            host='localhost',
-            user='root',
-            password='240301',
-            database='cadastro',
+            host='host',
+            user='usuario',
+            password='sua_senha',
+            database='nome_database',
         )
         print('Conectado ao banco de dados!')
         return conexao
