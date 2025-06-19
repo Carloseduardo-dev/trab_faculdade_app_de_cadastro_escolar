@@ -137,7 +137,7 @@ class LoginApp:
         
         # user e senha
         usuarios_validos = {
-            'Carlos Eduardo': '123',
+            'goldenball': '123',
 
         }
         
