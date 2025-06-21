@@ -201,6 +201,3 @@ Os dados incluem exemplos realistas de nomes, e‑mails, valores de nota e datas
 
 Este projeto é de caráter educacional. Fique à vontade para **clonar, modificar e compartilhar**, desde que cite a fonte ou deixe um ⭐ no repositório.
 
----
-
-**Autor:** Carlos Eduardo S Ferreira - contato: [https://carloseduardo-dev.github.io/im_cadu01/]
