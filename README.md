@@ -201,3 +201,10 @@ Os dados incluem exemplos realistas de nomes, e‑mails, valores de nota e datas
 
 Este projeto é de caráter educacional. Fique à vontade para **clonar, modificar e compartilhar**, desde que cite a fonte ou deixe um ⭐ no repositório.
 
+## 👥 Desenvolvedores
+
+[![Carlos Eduardo](https://github.com/Carloseduardo-dev.png?size=100)](https://github.com/Carloseduardo-dev)
+[![Pedro Henrique](https://github.com/PedroShinro.png?size=100)](https://github.com/PedroShinro)
+[![Enzo Fernandes](https://github.com/murajiro.png?size=100)](https://github.com/murajiro)
+[![Ricardo Leite](https://github.com/ricardoRD95.png?size=100)](https://github.com/ricardoRD95)
+
